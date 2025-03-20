@@ -19,14 +19,15 @@ Untuk menulis dan memformat postingan Anda dengan baik di GitHub, silakan meruju
 
 ## 🎯 Cara Berkontribusi
 Kami mengundang semua anggota komunitas untuk berkontribusi dalam forum ini! Berikut beberapa cara untuk ikut serta:
-1. **Bertanya atau Berdiskusi**  
+1. **Bertanya atau Berdiskusi**
+   - Silahkan kunjungi tautan berikut untuk [Mulai Berdiskusi](https://github.com/GarapDigital/forum/discussions)
    - Gunakan judul yang jelas dan sertakan detail yang cukup agar lebih mudah dipahami.
   
-2. **Membantu Menjawab Pertanyaan**  
+3. **Membantu Menjawab Pertanyaan**  
    - Berikan jawaban atau saran yang informatif dan bermanfaat.  
    - Sertakan contoh kode atau referensi jika memungkinkan.
 
-3. **Melaporkan Masalah atau Saran**  
+4. **Melaporkan Masalah atau Saran**  
    - Jika ada hal yang perlu diperbaiki dalam forum ini, silakan buat *Issue* baru.  
    - Kami terbuka terhadap saran untuk meningkatkan kualitas forum.
 
